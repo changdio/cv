@@ -1,0 +1,15 @@
+body {
+  background-color: #d9ecf2;
+  font-family: Calibri,Candara,Segoe,"Segoe UI",Optima,Arial,sans-serif;
+  color: #14274e;
+}
+
+hr {
+  border-style: none;
+  border-top-style: solid;
+  border-color: grey;
+}
+
+.list {
+  padding-left: 18px;
+}
