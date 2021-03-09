@@ -1,3 +1,3 @@
 # cv
 
-View Resume using HTML and CSS: https://changdio.github.io/cv/
+Resume can be viewed here: https://changdio.github.io/cv/
